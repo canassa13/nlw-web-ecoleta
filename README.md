@@ -77,10 +77,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/canassa13/nlw-web-ecoleta.git
 
 # Go into the repository
-$ cd NLW-1.0/frontent
+$ cd nlw-web-ecoleta
 
 # Install dependencies
 $ yarn install
