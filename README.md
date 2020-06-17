@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
 
+<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+
 </p>
 <p align="center">
 </p>
@@ -25,6 +27,7 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 ## :information_source: What's Next Level Week?
@@ -94,8 +97,9 @@ $ yarn start
 
 After merging your receipt request to done, you can delete a branch from yours.
 
+## :memo: License	
 
-
+This project is under the MIT license. See the [LICENSE](https://github.com/canassa13/nlw-web-ecoleta/blob/master/LICENSE) for details.
 
 Made with ♥ by Pedro Canassa :wave: [Get in touch!](https://www.linkedin.com/in/pedrocanassa/)
 
