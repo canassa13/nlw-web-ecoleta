@@ -97,6 +97,8 @@ $ yarn start
 After merging your receipt request to done, you can delete a branch from yours.
 
 
+
+
 Made with ♥ by Pedro Canassa :wave: [Get in touch!](https://www.linkedin.com/in/pedrocanassa/)
 
 Readme layout credits [Daniel Obara](https://www.linkedin.com/in/danielobara/).
