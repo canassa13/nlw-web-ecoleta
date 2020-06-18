@@ -100,7 +100,6 @@ This project is under the MIT license. See the [LICENSE](https://github.com/cana
 
 Made with ♥ by Pedro Canassa :wave: [Get in touch!](https://www.linkedin.com/in/pedrocanassa/)
 
-Readme layout credits [Daniel Obara](https://www.linkedin.com/in/danielobara/).
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
